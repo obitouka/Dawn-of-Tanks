@@ -4,9 +4,6 @@
 ![Game](https://img.shields.io/badge/Category-Game-red)
 ![Greenfoot](https://img.shields.io/badge/Framework-Greenfoot-green)
 
-A simple yet engaging **Java tank battle game** built using the Greenfoot API.  
-Features basic **AI-controlled enemy tanks**, obstacle collision and player movement in a dynamic 2D environment.
-
 ---
 
 ## 🎮 FEATURES
