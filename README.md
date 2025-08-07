@@ -4,8 +4,6 @@
 ![Game](https://img.shields.io/badge/Category-Game-red)
 ![Greenfoot](https://img.shields.io/badge/Framework-Greenfoot-green)
 
----
-
 ## 🎮 FEATURES
 
 - Combat between player and AI enemies  
