@@ -4,31 +4,27 @@
 ![Game](https://img.shields.io/badge/Category-Game-red)
 ![Greenfoot](https://img.shields.io/badge/Framework-Greenfoot-green)
 
-## 🎮 FEATURES
-
-- Combat between player and AI enemies  
-- Basic AI behavior with automatic targeting  
-- Obstacles and walls affecting strategy and movement  
-- Bullet collision detection and damage system  
-
----
-
-## 🖼️ PREVIEW
+##  Preview :
 
 ![Gameplay Preview](https://raw.githubusercontent.com/obitouka/Dawn-Of-Tanks/main/images/zSample.png)
 
-*Player tank vs enemy bots in an enclosed map environment.*
+<br>
 
----
+##  Mechanisms Included : 
 
-## ▶️ TRY IT ONLINE
+- Basic AI behavior 
+- Wall and tank collision 
+- Explosion animation and few basic animations too
+  
+<br>
 
-Or try it directly in your browser without downloading:  
-👉 [Play Online on Greenfoot](https://greenfoot.org/scenarios/26460)
+##  Try Online :
 
----
+Play Online on [Greenfoot web](https://greenfoot.org/scenarios/26460)
 
-## 🚀 HOW TO RUN
+<br>
+
+##  Try locally :
 
 1. Install **[Greenfoot](https://www.greenfoot.org/download)**  
 2. Clone the repo:
